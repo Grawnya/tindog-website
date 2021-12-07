@@ -1,0 +1,140 @@
+h1 {
+    color: #FFB085;
+    margin: 50px auto 0 auto;
+    padding-top: 100px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    font-weight: bold;
+}
+
+h2 {
+    color: #FFB085;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    line-height: 2;
+    margin: 0 auto;
+}
+
+h3 {
+    color: #90AACB;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin: 0 auto 20px auto;
+}
+
+hr {
+    border: none;
+    border-top: 8px dotted;
+    color: #90AACB;
+    overflow: visible;
+    text-align: center;
+    width: 5%;
+    padding: 20px auto;
+    margin: 50px auto;
+}
+
+body {   
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+a {
+    color: #90AACB;
+}
+
+.first_para {
+    margin-bottom: 150px;
+}
+
+.second {
+    margin-bottom: 150px;
+}
+
+.profile_pic {
+    border-radius: 50%;
+}
+
+.top-container {
+    background-color: #FEF1E6;
+    position: relative;
+    padding-top: 100px;
+}
+
+.bottom-container {
+    background-color: #FEF1E6;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.middle-container {
+    padding-bottom: 20px;
+}
+
+.round_images {
+    border-radius: 50%;
+    height: 200px;
+    padding: 10px;
+    width: 200px;
+}
+
+.round_images_1 {
+    border-radius: 50%;
+    float: left;
+    height: 200px;
+    margin-right: 30px;
+    width: 25%;
+}
+
+.round_images_2 {
+    border-radius: 50%;
+    float: right;
+    height: 200px;
+    margin-left: 30px;
+    width: 25%;
+}
+
+.top_cloud {
+    position: absolute;
+    top: 150px;
+    right: 500px;
+}
+
+.bottom_cloud {
+    position:absolute;
+    top: 480px;
+    left: 500px;
+}
+
+.skill-row {
+    line-height: 2;
+    margin: 50px auto;
+    text-align: left;
+    width: 50%;
+}
+
+.foot {
+    margin-bottom: 0;
+}
+
+.footer-link {
+    color: #FFB085;
+}
+
+.BUTTON_GHL {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    font-family: Verdana;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 22px;
+    background-color: #FFB085;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
